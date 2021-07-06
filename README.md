@@ -1,1 +1,1 @@
-# openedtechecosystem
+# Open EdTech Ecosystem
